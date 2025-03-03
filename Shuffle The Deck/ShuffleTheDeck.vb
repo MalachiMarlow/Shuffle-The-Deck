@@ -1,4 +1,8 @@
-﻿
+﻿'Malachi Marlow
+'Spring 2025
+'RCET2265
+'ShuffleTheDeck
+'https://github.com/MalachiMarlow/Shuffle-The-Deck.git
 
 Option Compare Text
 Option Explicit On
